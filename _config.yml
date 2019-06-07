@@ -35,39 +35,25 @@ sass:
   style: compressed
 
 # Site Data
-url: http://yizeng.me # the base hostname & protocol for your site, e.g. http://example.com
+url: https://liujiayi1.netlify.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Yi Zeng’s Blog
-description: 'Personal blog for Yi Zeng, a full-stack developer based in Berlin, Germany.'
-keywords: 'software,engineer,testing,full-stack,christchurch,newzealand,berlin,germany'
+title: LiuJiaYi’s Blog
+description: 'Personal blog for LiuJiaYi, an undergraduate student in CUP, China.'
+keywords: 'natural gas hydrate, molecular dynamics, optimization'
 author:
-  name: Yi Zeng
-  job_title: Full-stack Developer
-  location: Berlin, Germany
-  email: developer@yizeng.me
+  name: LiuJiaYi
+  job_title: Undergraduate student
+  location: Beijing, China
+  email: 2016010775@student.cup.edu.cn
   social_links:
-    - name: facebook
-      url:
     - name: github
-      url: https://github.com/yizeng/
-    - name: instagram
-      url: https://www.instagram.com/yizeng.me
-    - name: linkedin
-      url: https://www.linkedin.com/in/yizengnz/
-    - name: stackoverflow
-      url: https://stackoverflow.com/users/1177636/yi-zeng
-    - name: twitter
-      url:
-    - name: vk
-      url: https://vk.com/yi.zeng
+      url: https://github.com/LiuJiaYiCup/
+    - name: Zhihu
+      url: https://www.zhihu.com/people/zhua-zhua-81-64/activities/
 home:
   section1:
   section2:
   section3:
-blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
-  cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
-  footer_content: Yi Zeng, a full-stack developer based in Berlin, Germany.
 
 disqus:
   shortname: yizeng
