@@ -1,8 +1,7 @@
-# yizeng.me
+# JiaYi Liu
 
-[![Build Status](https://travis-ci.org/yizeng/yizeng.me.svg?branch=master)](https://travis-ci.org/yizeng/yizeng.me)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9fcd94aa-af25-4b5c-a1f1-304670fdd45a/deploy-status)](https://app.netlify.com/sites/liujiayi1/deploys)
 
-This repository hosts the source code of my personal website and blog [yizeng.me](http://yizeng.me).
 
 The site is built with [Jekyll](http://jekyllrb.com/) using my own open source theme [Simple Texture](https://github.com/yizeng/jekyll-theme-simple-texture).
 
